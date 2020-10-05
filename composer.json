@@ -2,7 +2,7 @@
   "name": "podlibre/ipcat",
   "description": "Categorization of IP Addresses forked from https://github.com/client9/ipcat",
   "homepage": "https://github.com/podlibre/ipcat",
-  "license": "GNU General Public License v3.0",
+  "license": "GPL-3.0-only",
   "authors": [
     {
       "name": "Benjamin Bellamy",
